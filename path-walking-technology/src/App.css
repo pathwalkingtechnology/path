@@ -1,0 +1,153 @@
+/* src/App.css */
+
+/* Botón principal */
+.btn-primary {
+  background-color: #00AFEF; /* Azul claro institucional */
+  border: none;
+  padding: 12px 30px;
+  font-size: 18px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #FF434D; /* Rojo al hacer hover */
+}
+
+/* Hero section */
+.hero-section {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.hero-content {
+  text-align: center;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.hero-content h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.hero-content p {
+  font-size: 24px;
+}
+
+/* Service cards */
+.service-card img {
+  width: 60px;
+  margin-bottom: 15px;
+}
+
+.service-card {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+}
+
+/* Chatbot button */
+.chatbot-placeholder {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.btn-chatbot {
+  background-color: #00AFEF;
+  color: white;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.btn-chatbot:hover {
+  background-color: #FF434D;
+}
+
+/* Navbar */
+.navbar {
+  position: relative;
+  background-color: #000000; /* Color del menú */
+  padding: 20px;
+  transition: background-color 0.3s ease, padding 0.3s ease;
+}
+
+.navbar-sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #00AFEF; /* Color diferente al hacer scroll */
+  padding: 10px; /* Menú más pequeño cuando se hace scroll */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.navbar .navbar-nav {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar .navbar-nav a {
+  color: #000000;
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.navbar .navbar-nav a:hover {
+  color: #FF434D;
+}
+
+/* Slide section */
+.slide {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slick-dots li button:before {
+  color: white;
+}
+
+/* Chat image */
+.chat-image {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 80px;
+  height: 80px;
+}
+
+.chat-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.chat-image img:hover {
+  transform: scale(1.1);
+}
