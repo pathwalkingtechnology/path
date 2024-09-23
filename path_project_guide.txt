@@ -1,0 +1,324 @@
+# Path Project Guide
+
+## Objetivo
+Establecer autoridad en el nicho de desarrollo y tecnología.
+
+## Alcance
+Desarrollo de sitio web, desktop y aplicaciones móviles.
+
+## Tecnologías
+IA, Python, PHP, Java, librerías innovadoras.
+
+## Equipo
+- Programador: Milton M. De Campos
+- Diseñador: Claudio Cáceres
+- Marketing: Nicolás González
+- Asistente de IA: EVA (Entidad Virtual Asistente)
+
+## Cronograma
+- Semana 1-2: Análisis y planificación
+- Semana 3-4: Desarrollo del sitio web
+- Semana 5-6: Desarrollo de desktop
+- Semana 7-8: Pruebas y depuración
+
+## Requisitos
+- Establecer autoridad en el nicho
+- Vender desarrollos para pymes y grandes empresas
+- Escalar según sea necesario
+
+## Marketing Digital
+- SEO
+- Redes sociales (LinkedIn, Twitter, Facebook, Instagram)
+- Contenido de calidad en el blog
+
+## Directivas
+- No hay presupuesto para marketing pago
+- Frecuencia diaria en publicaciones de noticias
+- Utilizar herramientas de SEO gratuitas y de buena calidad
+
+## Tareas Pendientes
+- Revisar logo y marca
+- Analizar sitio web actual
+- Planificar desarrollo del sitio web
+
+## Notas
+- [Agregar notas importantes aquí]
+
+## Recursos
+- Lista de recursos utilizados (herramientas, librerías, etc.)
+- Enlaces a documentación relevante
+
+## Ideas y Propuestas
+- Sección para agregar ideas y propuestas para mejorar el proyecto
+
+## Problemas y Soluciones
+- Sección para registrar problemas y soluciones implementadas
+
+## Métricas y Análisis
+- Sección para registrar métricas y análisis del proyecto (tráfico web, engagement, etc.)
+
+## Actualizaciones y Cambios
+- Registro de actualizaciones y cambios realizados en el proyecto
+
+## IA Capabilities
+- Análisis de datos
+- Generación de contenido
+- Optimización de SEO
+- Automatización de tareas
+- Reconocimiento de patrones
+- Aprendizaje automático
+
+## IA Tools
+- Natural Language Processing (NLP)
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Computer Vision
+- Robotics
+
+## IA Data Sources
+- APIs públicas
+- Datos abiertos
+- Base de datos interna
+- Web scraping
+
+## IA Decision Making
+- Análisis de riesgos y beneficios
+- Evaluación de opciones
+- Recomendaciones
+
+## IA Communication
+- Interfaz de usuario
+- Chatbots
+- Email
+- Notificaciones
+
+## IA Ethics
+- Privacidad y seguridad
+- Transparencia y accountability
+- No discriminación
+- Respeto a la propiedad intelectual
+
+## IA Continuous Learning
+- Actualizaciones de software
+- Capacitación en nuevas tecnologías
+- Análisis de tendencias y innovaciones
+
+## Glosario
+- Definiciones de términos técnicos y específicos del proyecto
+
+## Referencias
+- Enlaces a artículos, documentación y recursos relevantes
+
+## Roadmap
+- Plan de desarrollo a largo plazo (6 meses, 1 año, etc.)
+
+## KPIs (Key Performance Indicators)
+- Métricas para evaluar el éxito del proyecto (tráfico web, engagement, etc.)
+
+## Riesgos y Desafíos
+- Identificación de posibles riesgos y desafíos en el proyecto
+
+## Mitigación de Riesgos
+- Estrategias para mitigar los riesgos identificados
+
+## Recursos y Herramientas
+- Acceso a bases de datos relevantes
+- Integración con herramientas de SEO y análisis web
+- Acceso a APIs públicas
+- Utilización de herramientas de colaboración en tiempo real
+- Acceso a recursos de aprendizaje automático y IA
+
+## Comunicación
+- Canal de comunicación directo y exclusivo para el proyecto
+- Horario de respuesta y actualización definido
+
+## Calidad y Consistencia
+- Proceso de revisión y aprobación para contenido generado
+- Estándares de calidad definidos para desarrollo y diseño
+
+## Formatos de Entrega
+- Documentos en formato PDF
+- Imágenes en formato PNG o JPEG
+- Código en formato ZIP o GitHub
+
+##Fechas Específicas
+- Semana 1: Revisión de logo y marca
+- Semana 2: Análisis de sitio web actual
+- Semana 3: Planificación del desarrollo del sitio web
+- Semana 4: Desarrollo del sitio web (frente y backend)
+- Semana 5: Pruebas y depuración del sitio web
+- Semana 6: Lanzamiento del sitio web
+
+##Criterios de Evaluación
+- Calidad del código
+- Diseño y experiencia del usuario
+- Funcionalidad y rendimiento
+- Cumplimiento de los requisitos
+
+##Tabla de Contenidos
+- Índice de secciones
+- Enlaces a recursos relevantes
+
+##Versionamiento
+- Registro de cambios y actualizaciones
+- Historial de versiones
+
+##Notas Adicionales
+- Espacio para agregar notas y comentarios adicionales
+
+##Canales de Comunicación
+- Email: pathwalkingtechnology@gmail.com
+- Slack: #proyecto (por crear)
+- Trello: Tablero de Proyecto (por crear)
+
+##Horarios de Trabajo
+- Lunes a Sábado: 8am-20hrs
+- Domingo: Cerrado
+
+##Equipo
+- Programador: Milton M. De Campos
+- Diseñador: Claudio Cáceres
+- Marketing: Nicolás González
+- Asistente de IA: EVA (Entidad Virtual Asistente)
+
+##Reuniones Periódicas
+- Reunión semanal: Miércoles 14hrs (virtual)
+- Reunión mensual: Primer viernes 10hrs (presencial)
+
+##Sistema de Seguimiento
+- Trello: Tablero de Proyecto
+- Google Drive: Carpeta compartida
+
+##Formatos de Informe
+- Informe semanal: Resumen de avances y objetivos
+- Informe mensual: Análisis detallado de progreso
+
+##Prioridades
+- Cumplimiento de plazos
+- Calidad del trabajo
+- Comunicación efectiva
+
+Proceso de Desarrollo
+- Recopilación de información del cliente para determinar necesidades
+- Adaptación y presentación de presupuesto
+- Demo y establecimiento de fecha de entrega
+- Pago: 50% inicial, 50% final
+- Revisiones: 3 (general, producción, final)
+
+
+Servicio de Noticias
+- Creación de sección de noticias en sitio web
+- Configuración para compartir noticias en redes sociales
+
+
+Administración de Redes Sociales
+- Establecer mínimo de cantidad de redes sociales y publicaciones
+- Servicio estándar y premium
+
+
+Sugerencias Pendientes
+- Definir mínimo de cantidad de redes sociales y publicaciones
+- Establecer diferencias entre servicio estándar y premium
+
+Proceso de Desarrollo
+- Recopilación de información del cliente para determinar necesidades
+- Adaptación y presentación de presupuesto
+- Demo y establecimiento de fecha de entrega
+- Pago: 50% inicial, 50% final
+- Revisiones: 3 (general, producción, final)
+
+
+Servicio de Noticias
+- Creación de sección de noticias en sitio web
+- Configuración para compartir noticias en redes sociales
+
+
+Administración de Redes Sociales
+- Establecer mínimo de cantidad de redes sociales y publicaciones
+- Servicio estándar y premium
+
+
+Tiempo de Entrega
+- Web Institucional: 72 horas
+- CMS: 5 días hábiles
+- Tienda Virtual: 5-7 días hábiles
+- Aula Virtual: 5-7 días hábiles
+
+
+Soporte Técnico
+- A convenir con el cliente
+
+
+Proceso de Desarrollo
+- Recopilación de información del cliente para determinar necesidades
+- Adaptación y presentación de presupuesto
+- Demo y establecimiento de fecha de entrega
+- Pago: 50% inicial, 50% final
+- Revisiones: 3 (general, producción, final)
+
+
+Servicio de Noticias
+- Creación de sección de noticias en sitio web
+- Configuración para compartir noticias en redes sociales
+
+
+Administración de Redes Sociales
+- Establecer mínimo de cantidad de redes sociales y publicaciones
+- Servicio estándar y premium
+
+
+Tiempo de Entrega
+- Web Institucional: 72 horas
+- CMS: 5 días hábiles
+- Tienda Virtual: 5-7 días hábiles
+- Aula Virtual: 5-7 días hábiles
+
+
+Soporte Técnico
+- A convenir con el cliente
+
+
+Límites de Tráfico y Usuarios
+- Tráfico: sin límites
+- Usuarios: hasta 10
+
+
+Objetivo Principal
+- Ser líderes en Latinoamérica en desarrollo web y aplicaciones
+
+
+Funcionalidades del Sitio Web
+- Presentación de servicios
+- Quienes somos
+- Visión y misión
+- Tecnologías utilizadas
+- Proceso de trabajo
+- Sección de noticias
+
+
+Contenido del Sitio Web
+- Información detallada de servicios
+- Perfil de la empresa
+- Noticias relevantes de tecnología y desarrollo
+- Blog (opcional)
+
+
+Requisitos
+- Diseño moderno y responsivo
+- Usabilidad intuitiva
+- Optimización para motores de búsqueda (SEO)
+- Integración con redes sociales
+- Actualizaciones regulares de contenido
+
+
+Tecnologías a utilizar
+- Desarrollo web: HTML5, CSS3, JavaScript, frameworks como React o Angular
+- Base de datos: MySQL o MongoDB
+- Inteligencia artificial: integración con herramientas como TensorFlow o IBM Watson
+- Seguridad: protocolos de cifrado y autenticación
+
+
+Siguiente Paso
+- Crear un wireframe del sitio web para visualizar la estructura y diseño.
+- Definir el plan de contenido y estrategia de marketing.
+- Establecer un cronograma de desarrollo y lanzamie
